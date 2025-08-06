@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs>
+<image id="source-201" x="0" y="0" width="16" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAABmJLR0QA/wD/AP+gvaeTAAAA60lEQVQokbWTMU7DUAyGP5uyZ0OdOEBShrIhJVyDdmHp0nKEilNQ9QBIrEhdKjFUVc4Azc4NmKsmZiDQvIqXpEh4s/3+z372e/Cfttskw20W9+vOqF98PQd5UtOVZXH3KEApGJRukJvetwZYFndzdAYElfBgt0mGvwEEYJvFfUUfMK58lSr2Diw7YTr56UBNRy3FAOfA2LmCmS6Aj5YAMB4dwGm0fjHTm7K9RnEnSm+/Xanm8rfkzkRmPq3A60mYXlRjzhZMJKwvTu8w5q5ROKsDwNfG/AAX9lxIcSkwZT+b5kH73n+bf/En+wTBykf7kUO+DQAAAABJRU5ErkJggg=="/>
+</defs>
+<use xlink:href="#source-201" transform="matrix(0.24, 0, 0, 0.24, 30.24, 19.44)"/>
+</svg>

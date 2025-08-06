@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene1_WZywklymSwiecie/3381747311_1394491604_2358810818.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene1_WZywklymSwiecie/327054218_2408024828_3464417904.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_PostacZTylu/2864702328_3799544225_223132457.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_PostacZTylu/3544262001_179156984_474063459.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_PostacZTylu/2783003687_2588754048_2412591500.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_PostacZTylu/2579907562_4047647641_2803459179.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_PostacZTylu/2579907562_1831374817_685496521.mp4'

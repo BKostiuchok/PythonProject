@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_ZblizenieMarzenia/517782116_1186329042_479341994.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_ZblizenieMarzenia/1227781776_1121617232_1648938670.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_ZblizenieMarzenia/1227781776_1851789593_2709512509.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene2_ZblizenieMarzenia/1227781776_1831374817_3658871997.mp4'

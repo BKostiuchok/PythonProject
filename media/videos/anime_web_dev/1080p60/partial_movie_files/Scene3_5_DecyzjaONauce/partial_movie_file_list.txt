@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/517782116_1121617232_1753703924.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_1509348355_3246042211.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_1838923819_1513556023.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_422628456_4163546809.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_3291110329_2577982163.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_422628456_2885178777.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_2678486846_2314437349.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_3187550331_542104264.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_3778757968_3369514532.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_910228078_4173711974.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_1831374817_2397946867.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene3_5_DecyzjaONauce/1227781776_2942748947_305463056.mp4'

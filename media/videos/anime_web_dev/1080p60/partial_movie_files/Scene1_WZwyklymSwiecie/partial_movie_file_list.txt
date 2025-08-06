@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene1_WZwyklymSwiecie/3381747311_2143661814_3926586858.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene1_WZwyklymSwiecie/327054218_2555061365_3783209322.mp4'
+file 'file:C:/Users/kosti/PycharmProjects/PythonProject/media/videos/anime_web_dev/1080p60/partial_movie_files/Scene1_WZwyklymSwiecie/327054218_2408024828_156256878.mp4'
